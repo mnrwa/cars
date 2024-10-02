@@ -31,9 +31,7 @@ public class Main {
         List<CarModel> carModels = readCarModelsFromCsv(filePath);
 
         for (CarModel carModel : carModels) {
-            //System.out.println(carModel);
-
-            carModel[0].equals()
+            System.out.println(carModel);
         }
 
 
